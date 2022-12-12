@@ -27,8 +27,6 @@ def listing_create(request):
         if form.is_valid():
             form.save()
             return redirect('/listings/')
-
-
     context = {
         'form': form
     }
