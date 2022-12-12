@@ -27,6 +27,6 @@
 <i>Other places you can find us:</i><br>
 
 <a href="https://www.youtube.com/channel/UCmBVliNIVBMdRFtxJocTgig" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23E4405F.svg?&style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a>
-<a href="https://www.twitter.com/atabekdemurtaza1" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
+<a href="https://www.twitter.com/atabekdemurtaz1" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
 
 </div>
