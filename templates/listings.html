@@ -1,0 +1,14 @@
+{% extends 'base.html' %}
+
+{% block content %}
+    <a href="/listings/create/" class="text-blue-500">Create a new listing</a>
+    {% for listing in listings %}
+        <div class="mt-2 px-3 py-2 bg-gray-100 rounded-sm">
+            <h3 class="text-3xl text-gray-900">{{ listing.title }}</h3>
+            <img src="{{ listing.image.url }}" class="h-48 w-96"/>
+            <a href="/listings/{{listing.id}}/" class="text-blue-500">
+                View Details
+            </a>
+        </div>
+    {% endfor %}
+{% endblock %}

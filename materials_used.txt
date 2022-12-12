@@ -1,0 +1,2 @@
+For web -> tailwind.css
+For shields -> shields.io
